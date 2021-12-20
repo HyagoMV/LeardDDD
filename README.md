@@ -30,3 +30,11 @@
     > Podemos mover as validações de nome do usuário para o objeto Username
       > Impede de criar um nome de usuários incorretos
       > Impede de modificar o nome de usuários após sua criação.
+
+
+
+
+
+
+https://docs.abp.io/pt-BR/abp/4.2/Domain-Driven-Design-Implementation-Guide
+https://www.youtube.com/watch?v=NsQnmmIykoE
